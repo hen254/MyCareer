@@ -1,6 +1,6 @@
     [
         {
-            "id" : "",
+            "id" : "1",
             "type" : "Undergraduate/Full time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -13,7 +13,7 @@
             "company_logo" : "https://image.pngaaa.com/572/2147572-middle.png"
         },
         {
-            "id" : "",
+            "id" : "2",
             "type" : "Undergraduate|Full time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -26,7 +26,7 @@
             "company_logo" : "https://www.kac.co.ke/img/imgfav.png"
         },
         {
-            "id" : "",
+            "id" : "3",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -39,7 +39,7 @@
             "company_logo" : "https://i0.wp.com/www.school-directory.org/wp-content/uploads/2018/03/UoN-logo.png?ssl=1"
         },
         {
-            "id" : "",
+            "id" : "4",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -52,7 +52,7 @@
             "company_logo" : "https://upload.wikimedia.org/wikipedia/commons/9/96/USIU_Africa_Logo.png"
         },
         {
-            "id" : "",
+            "id" : "5",
             "type" : "Undergraduate|Variant",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -65,7 +65,7 @@
             "company_logo" : "https://i0.wp.com/www.school-directory.org/wp-content/uploads/2018/03/UoN-logo.png?ssl=1"
         },
         {
-            "id" : "",
+            "id" : "6",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -78,7 +78,7 @@
             "company_logo" : "https://s3.amazonaws.com/kampuni/organisation/images/thumbnail/CkT9iGviAA6rkvK4egK0f8xNmn0BUUFwJOoK2C0D.jpg"
         },
         {
-            "id" : "",
+            "id" : "7",
             "type" : "Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -91,7 +91,7 @@
             "company_logo" : "https://upload.wikimedia.org/wikipedia/en/a/a5/Technical_University_of_Mombasa.logo.png"
         },
         {
-            "id" : "",
+            "id" : "8",
             "type" : "Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -104,7 +104,7 @@
             "company_logo" : "https://w7.pngwing.com/pngs/250/194/png-transparent-jomo-kenyatta-university-of-agriculture-and-technology-mombasa-jkuat-karen-campus-technology-thumbnail.png"
         },
         {
-            "id" : "",
+            "id" : "9",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -117,7 +117,7 @@
             "company_logo" : "https://w7.pngwing.com/pngs/250/194/png-transparent-jomo-kenyatta-university-of-agriculture-and-technology-mombasa-jkuat-karen-campus-technology-thumbnail.png"
         },
         {
-            "id" : "",
+            "id" : "10",
             "type" : "Undergraduate/Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -130,7 +130,7 @@
             "company_logo" : "https://i0.wp.com/www.mksu.ac.ke/wp-content/uploads/2019/05/logohead2.png?fit=150%2C167&ssl=1"
         },
         {
-            "id" : "",
+            "id" : "11",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -143,7 +143,7 @@
             "company_logo" : "https://studentsportal.jooust.ac.ke/img/jooust.png"
         },
         {
-            "id" : "",
+            "id" : "12",
             "type" : "Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -156,7 +156,7 @@
             "company_logo" : "https://upload.wikimedia.org/wikipedia/en/0/0a/University_of_Eldoret_Administration_Block.jpeg"
         },
         {
-            "id" : "",
+            "id" : "13",
             "type" : "Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -169,7 +169,7 @@
             "company_logo" : "https://www.logolynx.com/images/logolynx/68/689c3807c4404eb182341f23f3d64547.jpeg"
         },
         {
-            "id" : "",
+            "id" : "14",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -182,7 +182,7 @@
             "company_logo" : "https://studentsportal.jooust.ac.ke/img/jooust.png"
         },
         {
-            "id" : "",
+            "id" : "15",
             "type" : "Undergraduate, Single Honours",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -195,7 +195,7 @@
             "company_logo" : "https://logosrated.net/wp-content/uploads/parser/The-University-of-Birmingham-Logo-1.jpg"
         },
         {
-            "id" : "",
+            "id" : "16",
             "type" : "Undegraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -208,7 +208,7 @@
             "company_logo" : "https://i0.wp.com/www.school-directory.org/wp-content/uploads/2018/03/UoN-logo.png?ssl=1"
         },
         {
-            "id" : "",
+            "id" : "17",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -221,7 +221,7 @@
             "company_logo" : "https://www.nationmedia.com/wp-content/uploads/2017/02/partner-egerton-university.png"
         },
         {
-            "id" : "",
+            "id" : "18",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -234,7 +234,7 @@
             "company_logo" : "https://studentsportal.jooust.ac.ke/img/jooust.png"
         },
         {
-            "id" : "",
+            "id" : "19",
             "type" : "Diploma|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -247,7 +247,7 @@
             "company_logo" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz8K17E_8oySLU_IWgVqxXoG6VW7jTUOOFCSiM9mg5xw7NnAHZQiY1l4e7bAd1tbDifeI&usqp=CAU"
         },
         {
-            "id" : "",
+            "id" : "20",
             "type" : "Diploma|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -260,7 +260,7 @@
             "company_logo" : "https://www.nairobitti.ac.ke/images/NTTI_LOGO_NEW.png"
         },
         {
-            "id" : "",
+            "id" : "21",
             "type" : "Diploma|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
@@ -273,7 +273,7 @@
             "company_logo" : "https://i0.wp.com/jobsbureaukenya.club/wp-content/uploads/2021/08/KIMC-LOGO.png?fit=720%2C324&ssl=1"
         },
         {
-            "id" : "",
+            "id" : "22",
             "type" : "Undergraduate|Full Time",
             "url" : "",
             "created_at" : "Fri Oct 09 16:4:30 GMT 2021",
